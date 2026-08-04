@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgb(255, 140, 203);
+}
+
+ul {
+    list-style: none;
+}
+
+.navigation {
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+    padding: 20px 0px;
+    background-color: rgb(254, 233, 243);
+    text-align: center;
+
+    /*height: 50vh;*/
+    width: 250px;
+
+    border: 5px solid rgb(202, 85, 130);
+    border-radius: 5px;
+}
+
+.OttoVonBismark {
+    height: 50vh;
+    background-color: aqua;
+}
+
+.OttoVonBismark img {
+    width: 400px;
+}
+
+.garbo {
+    height: 50vh;
+    background-color: blue;
+}
