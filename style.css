@@ -18,7 +18,7 @@ ul {
 
 .navigation {
     margin-top: 40px;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 
     padding: 20px 0px;
     background-color: rgb(254, 233, 243);
@@ -31,13 +31,29 @@ ul {
     border-radius: 5px;
 }
 
+.textBlock {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
 .OttoVonBismark {
     height: 50vh;
     background-color: aqua;
 }
 
+.blocks {
+    display: flex;
+    justify-content: center;
+}
+
+.blocks p {
+    margin: auto;
+    padding: 20px;
+}
+
 .OttoVonBismark img {
-    width: 400px;
+    width: 300px;
+    height: 350px;
 }
 
 .garbo {
