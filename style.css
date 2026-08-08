@@ -59,4 +59,12 @@ ul {
 .garbo {
     height: 50vh;
     background-color: blue;
+    text-align: center;
+}
+
+.garbo img{
+    width: 400px;
+    margin: 30px auto;
+    align-items: center;
+    
 }
