@@ -41,6 +41,10 @@ ul {
     background-color: aqua;
 }
 
+.OttoVonBismark #otto {
+    text-align: center;
+}
+
 .blocks {
     display: flex;
     justify-content: center;
